@@ -1,0 +1,12 @@
+Component demand:
+              compId      Component name              demand
+                   0:    Pintel CPU 3 GHz                 296
+                   1:    Pintel CPU 5 GHz                 443
+                   2:        IMD CPU 3GHz                 539
+                   3:        IMD CPU 5GHz                 503
+                   4:  Pintel motherboard                 739
+                   5:     IMD motherboard                1042
+                   6:         Memory 8 GB                 729
+                   7:        Memory 16 GB                1052
+                   8:       Hard disk 1TB                 904
+                   9:       Hard disk 2TB                 877

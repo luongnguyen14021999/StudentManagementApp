@@ -1,0 +1,19 @@
+      pcID    amount
+         0:        87
+         1:        38
+         2:        82
+         3:        89
+         4:       111
+         5:        75
+         6:       120
+         7:       137
+         8:       105
+         9:       108
+        10:       126
+        11:       200
+        12:        53
+        13:       152
+        14:       220
+        15:        78
+Total product to be produced: 1781
+Total production cycles required: 9999
